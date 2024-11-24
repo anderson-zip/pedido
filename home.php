@@ -7,6 +7,9 @@
     <title>Pedido</title>
 </head>
 <body>
+    <div class="corpo">
+
+    </div>
     
 </body>
 </html>
