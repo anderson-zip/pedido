@@ -1,3 +1,11 @@
-.corpo{
-    background-color:red;
-}
+@import url("https://fonts.googleapis.com/css2?family=Kavoon&family=Varela+Round&display=swap");
+body {
+    backdrop-filter: contrast(65%) grayscale(20%);
+    background: url("http://www.shapes4free.com/assets/previews/2018/11/pink-hearts-vector-pattern-on-white-background/pink-hearts-vector-pattern-on-white-background-Shapes4FREE-lg.png")
+      no-repeat center / cover;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100vw;
+    min-height: fit-content;
+  }
