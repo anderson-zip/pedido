@@ -6,14 +6,8 @@
 header{
     color: whitesmoke;
     font-family: monospace;
-    font-size: 3vh;
-    left: 50%;
-    position: absolute;
     text-align: center;
-    transform: translateX(-50%);
-}
-header{
-    top: 1vh;
+    position: relative;
 }
 body{
     background-color: black;
